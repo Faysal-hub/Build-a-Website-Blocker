@@ -1,0 +1,12 @@
+1. sudo gedit /etc/hosts
+
+2.sudo python website_blocker.py
+
+3.sudo nano /etc/hosts
+
+4.sudo crontab -e
+
+5.
+
+
+

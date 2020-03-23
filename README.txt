@@ -1,0 +1,1 @@
+I created a website blocker by python. I set a time duration in my program and it will block some website for that duration.
